@@ -72,3 +72,11 @@ yarn dev
 ## Output
 
 <img alt="CoverCreationStation" src="public/SS-1.png">
+
+<img alt="CoverCreationStation" src="public/SS-2.png">
+
+<img alt="CoverCreationStation" src="public/SS-3.png">
+
+<img alt="CoverCreationStation" src="public/SS-4.png">
+
+<img alt="CoverCreationStation" src="public/SS-5.png">
